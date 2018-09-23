@@ -9,7 +9,7 @@
 ## Screenshots of the App
 
 ### Landing Page
-<img src = './Screenshots/1.jpg'>
+<img src = '1.jpg'>
 
   
 
